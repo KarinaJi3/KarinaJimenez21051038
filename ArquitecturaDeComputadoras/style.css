@@ -1,0 +1,29 @@
+
+body {
+
+    background-image: url(img/descarga.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.fuente{
+    background-color: white;
+    width: auto;
+    height: 140px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border:0;
+    color: black;
+}
+
+.fuente1{
+    background-color: white;
+    height: 50px;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 10;
+    color: black;
+}
+
